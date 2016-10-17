@@ -47,7 +47,7 @@ namespace Checkpoints
     bool IsSyncCheckpointTooOld(unsigned int nSeconds);
 }
 
-// ppcoin: synchronized checkpoint
+// avoncoin: synchronized checkpoint
 class CUnsignedSyncCheckpoint
 {
 public:
