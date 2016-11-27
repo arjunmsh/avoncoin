@@ -110,7 +110,7 @@ border: 2px solid #010101;
              <string>Your current balance</string>
             </property>
             <property name="text">
-             <string notr="true">0 SHARE</string>
+             <string notr="true">0 ACN</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -139,7 +139,7 @@ border: 2px solid #010101;
              <string>Total of coins that was staked, and do not yet count toward the current balance</string>
             </property>
             <property name="text">
-             <string notr="true">0 SHARE</string>
+             <string notr="true">0 ACN</string>
             </property>
             <property name="textInteractionFlags">
              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
